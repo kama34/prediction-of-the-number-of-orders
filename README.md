@@ -17,7 +17,15 @@ Food delivery companies and systems has skyrocketed in recent years, driven by v
 
 ## Documentation
 
-Documentation Here
+### Dataset features description
+* courier_id (int) : Courier ID,
+* courier_transport (text) : The transport type used by a courier
+* total_deliveries (int) : Total number of orders delivered by a courier
+* max_unique_pickups (int) : ,
+* work_start (Timestamp) : time when the courier started working
+* work_finish (Timestamp) : time when the courier finished working
+* late_pickups (float) : Percentage of orders that were picked up late from the vendor (during inferencing this feature gets to be the maximum acceptable late pickups)
+* late_deliveries (float) : Percentage of orders that were delivered late to client (during inferencing this feature gets to be the maximum acceptable late deliveries)
 
 ## Distribute
 
