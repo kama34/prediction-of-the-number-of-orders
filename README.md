@@ -74,7 +74,6 @@ Model performance is assessed using MAE, RMSE, and R2. Results indicate the accu
 - Kamyshnikov Dmitrii :
       - [GitHub](https://github.com/kama34)
       - [Email](mailto:kamyshnikovdmitri@yandex.ru)
-      - [Mobile](tel:+79101663108)
       - [Telegram](https://t.me/+79101663108)
 
 ## License
