@@ -38,6 +38,36 @@ The dataset is loaded from a JSON file and undergoes profiling to understand its
 * late_pickups (float) : Percentage of orders that were picked up late from the vendor (during inferencing this feature gets to be the maximum acceptable late pickups)
 * late_deliveries (float) : Percentage of orders that were delivered late to client (during inferencing this feature gets to be the maximum acceptable late deliveries)
 
+### Technologies and Tools
+- **Pandas**: Data manipulation and analysis.
+- **NumPy**: Mathematical operations on arrays.
+- **Matplotlib**: Data visualization.
+- **ydata_profiling**: Profiling the dataset to gain insights.
+- **Scikit-Learn**: Machine learning library for preprocessing and modeling.
+- **StandardScaler**: Scaling numerical features.
+- **PCA (Principal Component Analysis)**: Dimensionality reduction technique.
+- **Lasso Regression and LassoCV**: Feature selection and regularization.
+- **Linear Regression and Ridge Regression**: Regression models for prediction.
+- **Mean Absolute Error (MAE)**, **Root Mean Squared Error (RMSE)**, **R-squared (R2)**: Evaluation metrics.
+
+### Data Analysis
+Visualizations and statistical analysis provide insights into the dataset's structure and relationships between variables with use ydata_profiling.
+
+### Data Preparation
+The dataset is loaded and profiled, and necessary preprocessing steps are taken. This includes handling categorical features, transforming timestamps, and splitting the data into features and targets.
+
+### Feature Selection and Model Building
+Lasso and LassoCV models are employed for feature selection based on their coefficients. Selected features are used to train linear regression, Lasso, and Ridge regression models. Model performance is evaluated using MAE, RMSE, and R2.
+
+### Results Visualization
+PCA is applied for dimensionality reduction, and the results are visualized using scatter plots. This provides insights into the relationships between data points.
+
+### Machine Learning Models for Regression
+Linear Regression, Lasso, and Ridge regression models are trained and evaluated on the selected features.
+
+### Performance Evaluation
+Model performance is assessed using MAE, RMSE, and R2. Results indicate the accuracy and effectiveness of each model.
+
 ## Distribute
 
 - [Service Name](Page Link)
