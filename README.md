@@ -3,10 +3,15 @@
 </p>
 
 <p align="center">
-   <img src="" alt="Unity Version">
-   <img src="" alt="Game Version">
-   <img src="" alt="License">
+   <img src="https://img.shields.io/badge/Pandas-lavender" alt="Pandas">
+   <img src="https://img.shields.io/badge/NumPy-thistle" alt="NumPy">
+   <img src="https://img.shields.io/badge/Matplotlib-lightcyan" alt="Matplotlib">
+   <img src="https://img.shields.io/badge/ydata_profiling-lavender" alt="ydata_profiling">
+   <img src="https://img.shields.io/badge/Scikit_Learn-thistle" alt="Scikit-Learn">
+   <img src="https://img.shields.io/badge/PCA-lightcyan" alt="PCA">
 </p>
+
+
 
 ## About
 
