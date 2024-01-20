@@ -68,13 +68,9 @@ Linear Regression, Lasso, and Ridge regression models are trained and evaluated 
 ### Performance Evaluation
 Model performance is assessed using MAE, RMSE, and R2. Results indicate the accuracy and effectiveness of each model.
 
-## Distribute
-
-- [Service Name](Page Link)
-
 
 ## Developers
 
-- [Delevoper Name](GitHub Profile Link)
+- [Kamyshnikov Dmitrii](https://github.com/kama34)
 
 ## License
