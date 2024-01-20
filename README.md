@@ -17,6 +17,17 @@ Food delivery companies and systems has skyrocketed in recent years, driven by v
 
 ## Documentation
 
+### Introduction
+This project aims to analyze courier activities and predict the total number of deliveries using machine learning techniques. The dataset contains information about couriers' mode of transportation, timestamps, and delivery statistics. Through data profiling, preprocessing, and regression modeling, the goal is to gain insights and build predictive models.
+
+### Overview
+The dataset is loaded from a JSON file and undergoes profiling to understand its structure. Categorical features, such as the mode of transportation, are processed using label encoding. Timestamp columns are transformed, and unnecessary columns are dropped. The data is split into features and targets, followed by scaling to ensure feature neutrality.
+
+### Goals and Objectives
+- Understand courier activities and patterns.
+- Predict the total number of deliveries.
+- Identify significant features influencing delivery counts.
+
 ### Dataset features description
 * courier_id (int) : Courier ID,
 * courier_transport (text) : The transport type used by a courier
