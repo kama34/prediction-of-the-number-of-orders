@@ -28,6 +28,9 @@ The dataset is loaded from a JSON file and undergoes profiling to understand its
 - Predict the total number of deliveries.
 - Identify significant features influencing delivery counts.
 
+### Dataset
+[Click](https://disk.yandex.ru/d/vu6gzY6IHNDgeQ)
+
 ### Dataset features description
 * courier_id (int) : Courier ID,
 * courier_transport (text) : The transport type used by a courier
