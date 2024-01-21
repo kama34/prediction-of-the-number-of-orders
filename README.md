@@ -77,3 +77,4 @@ Model performance is assessed using MAE, RMSE, and R2. Results indicate the accu
       - [Telegram](https://t.me/+79101663108)
 
 ## License
+Project kama34.PredictionNumberOrders is distributed under the MIT license.
